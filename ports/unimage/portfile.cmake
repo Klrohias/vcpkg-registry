@@ -1,8 +1,8 @@
 vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
   REPO Klrohias/unimage-native
-  REF c96100472ecb64d5a6ec53df377bef75d26c9151
-  SHA512 de7b70f591f165bbe07dfadb6bc6345d646b8eee53c06ea2cbeb7ea1884e7df782a3e1a3666e63fc7bfd372727141c172e05db9ca6c1b29d8570d1f3149d74a6
+  REF 5d699e3ecaa0d30601020159fb99d28afac8f2ef
+  SHA512 db0f67f5f545b08f6deef9c5e80cfbe44fcb0ceaf1fe85fadb60507f8aec8d4c1e2799369c8552bbbd7292e062086767d42ba77af271df6e5b31eca31aecdaf2
   HEAD_REF main
 )
 
