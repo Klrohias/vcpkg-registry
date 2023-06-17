@@ -1,1 +1,1 @@
-{"name": "unimage","version": "0.1.3","description": "A wrapper of libjpeg-turbo, libwebp, stb.","homepage": "https://github.com/Klrohias/unimage-native"}
+{"name": "unimage","version": "0.1.4","description": "A wrapper of libjpeg-turbo, libwebp, stb.","homepage": "https://github.com/Klrohias/unimage-native","dependencies": [{"name":"libjpeg-turbo","version>=":"2.1.5"},{"name":"libwebp","version>=":"1.3.0"},{"name":"stb","version>=":"2023-04-11"}]}
